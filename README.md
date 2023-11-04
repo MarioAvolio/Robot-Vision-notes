@@ -14,8 +14,8 @@ Welcome to the Robot Vision video series! This collection of videos covers vario
    - [Watch Video](https://drive.google.com/file/d/10pMsbZp_zOTustJrdUBWZ8w14LDZv8Rr/view?usp=drive_link)
 
 4. **Camera Calibration**
-   - [Part 1](https://drive.google.com/file/d/10ny0YPsykPXTyaXivCckxBTJ1lgQgEaS/view?usp=drive_link)
-   - [Part 2](https://drive.google.com/file/d/11-CcX5gy6IB5lQUzC1RvqQLtwk9w84TU/view?usp=drive_link)
+   - [Part 1](https://drive.google.com/file/d/11-CcX5gy6IB5lQUzC1RvqQLtwk9w84TU/view?usp=drive_link)
+   - [Part 2](https://drive.google.com/file/d/10ny0YPsykPXTyaXivCckxBTJ1lgQgEaS/view?usp=drive_link)
    - [Part 3](https://drive.google.com/file/d/15YJkAbyPAxdrAJShStO2q0Xo4az9904r/view?usp=drive_link)
 
 5. **Solid Sensors**
